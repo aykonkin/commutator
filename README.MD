@@ -5,7 +5,7 @@
   * Ether management **done**
   * Channel management **done**
   * ECRecover **done**
-  * Hashlocks
+  * Hashlocks **done**
   * Processing's own funds (liquidity)
 
 ### Workflow
